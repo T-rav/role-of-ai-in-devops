@@ -1,6 +1,6 @@
 **The Role of AI in DevOps**
 
-This repo containts the slide deck and related links to my talk `The Role of AI in DevOps`
+This repo contains the slide deck and related links to my talk `The Role of AI in DevOps`
 
 **Links**
 
