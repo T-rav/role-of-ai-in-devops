@@ -4,8 +4,7 @@ This repo containts the slide deck and related links to my talk `The Role of AI 
 
 **Links**
 
-1. [Artificial Intelligence: A Guide for Thinking Humans](https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0374257833) is a great book detailing the history of AI
-2. [CodeRabbit.ai](https://coderabbit.ai/) is a GenAI PR review bot
-3. [Codium](https://www.codium.ai/) is a Co-Pilot type coding assistant
+1. [Artificial Intelligence: A Guide for Thinking Humans is a great book detailing the history of AI](https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0374257833)
+2. [CodeRabbit.ai a GenAI PR review bot](https://coderabbit.ai/)
+3. [Codium a Co-Pilot type coding assistant](https://www.codium.ai/)
 4. [My AI Blog](https://aibuddy.software/)
-5. 
