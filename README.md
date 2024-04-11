@@ -11,3 +11,4 @@ This repo contains the slide deck and related links to my talk `The Role of AI i
 5. [MLOps Community is a great resource for ML and LLM videos and other content](https://home.mlops.community/)
 6. [Freeplay is an end-to-end LLM lifecycle tool](https://freeplay.ai/)
 7. [Arize is a ML and LLM Ops platform. Checkout their learn section for more on ML and LLM Ops](https://arize.com/)
+8. [ChatGPT for DevOps - Talk with your platforms](https://www.kubiya.ai/)
